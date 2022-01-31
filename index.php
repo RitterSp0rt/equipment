@@ -14,16 +14,14 @@
   </div>
 
   <div class="container">
-    <label for="uname"><b>Username</b></label>
+    <label for="uname"><b>e-mail</b></label>
     <input type="text" placeholder="Unesi korisničko ime" name="uname" required>
     <br><br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Unesi password" name="psw" required>
 
     <button type="submit">Login</button>
-    <label>
-      <input type="checkbox" checked="checked" name="remember"> Zapamti me
-    </label>
+
   </div>
 
 </form>
